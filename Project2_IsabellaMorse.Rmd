@@ -1,0 +1,49 @@
+---
+title: "Project 2 Isabella Morse"
+output: html_notebook
+---
+#Introduction
+
+Scientific Question:
+Are the sequences and structure of the EpCAM protein in metastatic breast cancer in humans similar to other species with metastatic breast cancer?
+
+...Need protein background...
+
+
+Scientific Hypothesis:
+If the EpCAM gene is overexpressed in metastatic breast cancer in humans, then it's protein sequence and structure will be similar to other species that also have metastatic breast cancer.   
+
+...description of analyses and how data was downloaded..
+
+Package Descriptions
+
+...define these in your own words - at least 3 packages needed to be used and at least 5 sentences per package with links to resources to the packages need to be included...
+ 
+#Performing Bioinformatics Analyses
+ Loading in the data from Uniprot download
+```{r}
+
+```
+ 
+#Homology Models
+```{r}
+plot(cars)
+```
+
+#Upload Pymol model
+```{r}
+
+```
+
+#Multiple sequence alignment 
+```{r}
+
+```
+
+#Plotting (phylogenetic clustering)
+```{r}
+
+```
+
+Analysis of Results 
+....
