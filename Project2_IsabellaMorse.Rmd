@@ -3,47 +3,215 @@ title: "Project 2 Isabella Morse"
 output: html_notebook
 ---
 #Introduction
-
 Scientific Question:
-Are the sequences and structure of the EpCAM protein in metastatic breast cancer in humans similar to other species with metastatic breast cancer?
+Are the sequences and structure of the EpCAM protein in metastatic breast cancer in humans similar to other mammals with metastatic breast cancer?
 
-...Need protein background...
+#Protein Background
+According to MedlinePlus, the epithelial cell adhesion molecule (EpCAM) is a protein found in epithelial cells, that are on the lining and surfaces of the body. Furthermore, it "contributes to cell adhesion, signaling, migration, and proliferation", it also is used as a cell surface marker and can be found in tumor tissues(Huang,et al).
+
+Huang, L., Yang, Y., Yang, F., Liu, S., Zhu, Z., Lei, Z., Guo, J."Functions of EpCAM in physiological processes and diseases (Review)". International Journal of Molecular Medicine 42.4 (2018): 1771-1785.
+
+“EPCAM Gene: Medlineplus Genetics.” MedlinePlus, U.S. National Library of Medicine, 18 Aug. 2020, https://medlineplus.gov/genetics/gene/epcam/. 
+1. Epithelial cell adhesion molecule (EpCAM) is overexpressed in breast cancer metastases
+The three main findings were EpCAM is highly expressed in metastatic breast cancer, EpCAM is expressed less in primary metastatic breast cancer compared to metastatic, and lastly these findings indicate the EpCAM gene is a possible target for treatment. The methods used by the authors were rapid autopsies, tissue microarray construction, immunohistochemistry and expression scoring, and quantitative gene expression analysis. The data in the article demonstrated the upward trend of EpCAM gene expression increases as the severity of breast cancer increases as well, which aids my hypothesis. Table 2 was the most relevant figure, as it highlighted the trends of expression across the various levels of breast cancer. This information is important because based on the EpCAM gene’s high expression in breast cancer it is a possible target for treatment of cancer. The author’s main question was “What is the difference between EpCAM expression in metastatic breast carcinoma versus matched primary breast carcinoma (PBC)?”
+
+Cimino, Ashley et al. “Epithelial cell adhesion molecule (EpCAM) is overexpressed in breast cancer metastases.” Breast cancer research and treatment vol. 123,3 (2010): 701-8. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3042397/ (Links to an external site.)
+
+ 
+EpCAM Is Overexpressed in Breast Cancer and Is a Potential Target for Breast Cancer Gene Therapy
+The three main findings were that EpCAM was overexpressed in primary and metastatic breast cancer(100 fold higher in primary compared to normal breast tissue), silencing EpCAM genes significantly decreases the rapid growth, and understanding how they contribute to the development of cancer and that they can aid in gene therapy. The most important methods used were cell lysis and protein extraction,  immunoblotting, and t-test for statistical analysis. The data used in the article demonstrated that the EpCAM expression increases with the stage of the cancer, which supports my hypothesis. Figure 1 was the most relevant figure as it clearly showed the significant gene expression of EpCAM of primary breast cancer compared to normal breast tissue. This information is unique because of the potential of the EpCAM gene; it allows for possible gene therapy in cancer patients. The authors’ main question is if EpCAM expression affects cell invasion and growth by the enhancement of E-cadherin of cell to cell adhesion?
+
+Osta et al., EpCAM Is Overexpressed in Breast Cancer and Is a Potential Target for Breast Cancer Gene Therapy. Cancer Res 15 August 2004; 64 (16): 5818–5824. 
+https://doi.org/10.1158/0008-5472.CAN-04-0754 (Links to an external site.)
+
+EpCAM overexpression prolongs proliferative capacity of primary human breast epithelial cells and supports hyperplastic growth
+The three main findings were that EpCAM overexpression in human mammary epithelial cells (HMECs) did not significantly alter gene expression profile of growth cells, proliferating HMECs displayed predominantly glycosylated EpCAM isoforms, and HMECs with overexpression of EpCAM showed a down regulation of E-cadherin. The methods used were differential expression analysis, t-test, and  P-value. The data provided a secondary outlook into how EpCAM can affect just normal breast cells and how it causes hyperplastic growth of the cells. Figure 5 was the most important as it demonstrated the hyperplastic growth of the normal breast cells affected by the overexpression of EpCAM. This article was unique as it demonstrated that normal breast tissue is also affected by the overexpression of the EpCAM gene. The authors’ main question was how will normal human breast tissue react to the overexpression of EpCAM?
+
+Martowicz et al., EpCAM overexpression prolongs proliferative capacity of primary human breast epithelial cells and supports hyperplastic growth. Mol Cancer 12, 56 (2013).https://molecular-cancer.biomedcentral.com/articles/10.1186/1476-4598-12-56#:~:text=breast%20cancer%20cells.-,Conclusions,innate%20immune%20responses%20in%20vivo (Links to an external site.).
+
+Expression and function of epithelial cell adhesion molecule EpCAM: where are we after 40 years?
+The three main findings were that EpCAM and it’s proteolytic fragments interact with various components such as claudins, E-cadherin, and epidermal growth factor receptor, the functions contributes to shaping intratumor heterogeneity and partial EMT, and that the EpCAM is used as a marker for primary tumor cells. The methods used were RNA-seq and mRNA splicing. The data provided clarity of the EpCAM protein and how it functions vary depending on the level of cancer and other species such as mice. Figure 4 is the most relevant to my project. This research is unique as it highlights the possibilities for functioning as a marker in tumor cells. The authors’ scientific question was how does EpCAM function in order for it to be used as a tumor marker in research?
+
+Gires et al., Expression and function of epithelial cell adhesion molecule EpCAM: where are we after 40 years?. Cancer Metastasis Rev 39, 969–987 (2020).
+https://link.springer.com/article/10.1007/s10555-020-09898-3 (Links to an external site.)
+
+ 
+Breast cancer animal models and applications
+The three main findings of this study were that breast cancer is highly heterogeneous, only certain elements of the various animal models can imitate the human model of breast cancer, and combined with the xenograft model the PDX and GEM models together can be used for therapeutic research. The methods used were xenograft modeling, PDX, and GEM. The data provided helped show that breast cancer is expressed differently across various species but there is similarity, which highlights that in my hypothesis there will be variation as expected. Table 1 was the most relevant as it indicated the various characteristics of breast cancer animal models. The authors’ scientific question was how is breast cancer modeled across various species aside from humans? 
+
+Zeng, Li et al. “Breast cancer animal models and applications.” Zoological research vol. 41,5 (2020): 477-494. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7475017/
 
 
 Scientific Hypothesis:
-If the EpCAM gene is overexpressed in metastatic breast cancer in humans, then it's protein sequence and structure will be similar to other species that also have metastatic breast cancer.   
+If the EpCAM gene is overexpressed in metastatic breast cancer in humans, then it's protein sequence and structure will be similar to other mammals(mice, rabbit, and guinea pig) that also have metastatic breast cancer.   
 
-...description of analyses and how data was downloaded..
+I will be using a homology model to measure the sequence similarities between humans and other mammals (mice,rabbit,guinea pig) for metastatic breast cancer. I will use multiple sequence alignment measure the length of the protein sequences and evolutionary relationships across different species. I will upload  pymol video to measure how far are various parts of the protein of the different species using NGLViewerR. Lastly, I will use phylogenetic clustering to show if the proteins across the various group of species are similar in their function.
+The data was pulled from Uniprot and pdb.
 
-Package Descriptions
+#Package Descriptions
+1. NGLViwerR
+Is used to visualize the PDB/structural files.PBD files can be loaded directly. It includes API functions to change the viewer. It allows for retrieval of data from the visualization to R studio. It provides an interface into the NGL library.
+https://github.com/nvelden/NGLVieweR
 
-...define these in your own words - at least 3 packages needed to be used and at least 5 sentences per package with links to resources to the packages need to be included...
- 
+2. magrittr
+It is a chain operator command. It is used for chaining commands with "forward-pipe" operator. It will forward a value into the next function. It offers more flexible support for right-hand side expressions. It uses %>% symbols to perform the function.  
+https://cran.r-project.org/web/packages/magrittr/index.html
+
+3. vembedr
+Is used to upload urls and video files. Used to generating an HTML to embed a video. 
+https://cran.r-project.org/web/packages/vembedr/index.html
+
+4. BiocManager 
+Used to install and manage packages from BioConductor. This can be for statistical analysis and analysis of genomic data. 
+https://cran.r-project.org/web/packages/BiocManager/vignettes/BiocManager.html
+
+5. msa
+Used to interface to the multiple sequence alignment algorithms. The three algorithms ClustalW,ClustalOmega, and Muscle. It is complemented by the pretty-printing msa's. 
+https://github.com/UBod/msa
+
+6. tinytex
+It is a helper function to install Tex live. It is used to complile LaTex documents.
+https://cran.r-project.org/web/packages/tinytex/index.html
+
+7. seqinr
+It is a data analysis and visualization for biological sequences. It was used for retrieval of the sequences.
+https://cran.r-project.org/web/packages/seqinr/index.html
+
+8. ape
+It is used for analysis of phylogentic trees. It functions for reading, writing, and plotting the trees. It can import from BioConductor. 
+https://cran.r-project.org/web/packages/ape/index.html
+
+#Loading in packages
+```{r}
+# Install NGLViewerR packages
+install.packages("NGLViwerR")
+install.packages("magrittr")
+
+#Install embed package
+installed.packages("vembedr")
+
+#Install MSA package
+if (!requireNamespace("BiocManager", quietly=TRUE))
+install.packages("BiocManager")
+BiocManager::install("msa")
+install.packages(msa)
+
+#install tinytex
+install.packages(tinytex)
+
+#load in the ape package
+install.packages(ape)
+```
+
 #Performing Bioinformatics Analyses
  Loading in the data from Uniprot download
 ```{r}
+#Upload EpCAM mammals fasta
+MammalEpCAM_unaligned <- readAAStringSet("Mammals.fasta")
 
 ```
  
 #Homology Models
+Here I uploaded a homology model of the mouse using a human template to measure the sequence similarities.
 ```{r}
-plot(cars)
+#Load in homology models. Here we visualize the model using "cartoon"
+#Load local pbd file
+NGLViewerR("EpCAM.pdb")%>%
+addRepresentation("cartoon")
+
+#alter the appearance of your homology model
+addRepresention("cartoon",
+   param =list(colorScheme ="residueindex"
+               )%%
+addRepresentation("ball+stick",
+                  param = list(
+                    sele = "233-248",
+                    colorValue ="red",
+                    colorScheme ="element"
+                  )
+            )%>%
+  addRepresentation("surface",
+                    param =list(
+                      colorValue ="white",
+                      opacity =0.1
+                    )
+                  )
+
+#Change the background color
+stageParameters(backgroundColor="white",zoomSpeed = 1)%>%
+  addRepresentation("cartoon",
+          param=list(name="cartoon",colorScheme="residueindex")
+          )%>%
+
+#rotate the model
+setSpin()
 ```
 
 #Upload Pymol model
+Here I uploaded the Pymol video of the homology of the mouse compared to the human using the embed function. I used Pymol to analyze the structure of the mouse versus the human. It is used to measure how far are various parts of the protein of the different species.
 ```{r}
+#embed pymol videos
+suggest_embed("https://youtu.be/XCtyGjJzf4s" )
+
+embed_youtube("https://youtu.be/XCtyGjJzf4s")
 
 ```
 
-#Multiple sequence alignment 
+#Multiple sequence alignment
+I used multiple sequence alignment measure the length of the protein sequences and evolutionary relationships across different species. 
 ```{r}
+#read in packages 
+library(msa)
+library(tinytex)
 
+#read in files
+#system.file("EpCAM", "Mammals.fasta", package="msa")
+
+#EpCAMSequenceFile <- system.file("EpCAM", "Mammals.fasta", package="msa")
+
+#reads the file of the amino acid sequences
+#EpCAMSequences <- readAAStringSet(EpCAMSequenceFile)
+#print the sequences
+#EpCAMSequences
+
+#we use the msa function and runs the clusters with the paramater
+MammalsMSA <- msa(MammalEpCAM_unaligned)
+
+#print the code that show the entire alignment that is split into multiple blocks 
+print(MammalsMSA, show="complete")
+
+
+#this code is for coloring the sequences and alignment based on coloring
+msaPrettyPrint(Alignment, output="tex",y=c(164,213),
+subset=c(1:6),showNames ="none",showLogo="top",
+logoColors="rasmol",shadingmode="similar",
+showLegend=FALSE,askForOverwrite=FALSE
+
+pdflatex("Alignment.tex")
+
+#if it failed to compile use this code to debug
+msaPrettyPrint(ALignment,output="asis",y=c(164,213), 
+subset=c(1:6),showNames="none",showLogo="top',logoColors="rasmol",shadingMode= "similar",
+showLegend=False,askForOverwrite=False
 ```
 
 #Plotting (phylogenetic clustering)
+I used  phylogenetic clustering to show if EpCAM across the mammals are similar in their function and measure the distance between them.
 ```{r}
+#load in the ape package
+library(ape)
 
+#convert the file to a seqinr using the msaConvert function
+EpCAM_align_2 <- msaConvert(MammalEpCAM_unaligned, type="seqinr::alignment")
+
+#complete the matrix using the dist.alignment funtion
+distance <- dist.alignment(EpCAM_align2, "identity")
+as.matrix(distance)[2:5, "EpCAM_Mammals", drop=FALSE]
+
+#perform a neighbor joining tree estimation 
+EpCAM_Tree <- nj(distance)
+plot(EpCAM_Tree, main="Phylogenetic Tree of EpCAM sequences of Mammal Sequences")
 ```
 
 Analysis of Results 
-....
+I used Swiss-Model to build the homology model. The mouse EpCAM expressed a 80.91% sequence identity to the human EpCAM gene. Based off of the pymol video the two structures showed similarity in their structure. I was unable to analyze the data from the multiple sequence alignment and phylogenetic clustering. 
